@@ -1,0 +1,8 @@
+{
+  "cmake.sourceDirectory": "C:/Users/MUHAIMINUL/Desktop/first_app/windows/flutter",
+  "dart.flutterGenerateLocalizationsOnSave": "all",
+  "dart.flutterHotReloadOnSave": "all",
+  "files.autoSave": "afterDelay",
+  "editor.defaultFormatter": "Dart-Code.flutter",
+  "files.autoSaveDelay": 5000
+}
